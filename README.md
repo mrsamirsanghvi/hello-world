@@ -1,2 +1,2 @@
 # hello-world
-Test Repo for GIT
+Test Repo on GitHub for learning GIT
